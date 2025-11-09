@@ -1,7 +1,7 @@
 # Hello everyone ! I'm Viviane
 
-## 🚀 About Me
-- 🎓 Software Developer student at **42 Paris** ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+## /ᐠ｡ꞈ｡ᐟ✿\ About Me
+- Software Developer student at **42 Paris** ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 - 🎌 BA in Japanese Studies
 - 💬 Fluent in **French, English & Japanese** 🇫🇷🇬🇧🇯🇵
 - 🌱 Currently mastering C/C++, web development & system programming
@@ -13,7 +13,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight)
