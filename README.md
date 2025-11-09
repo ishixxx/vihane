@@ -1,7 +1,7 @@
 # Hello everyone ! I'm Viviane
 
 ## 🚀 About Me
-- 🎓 Software Developer student at **42 Paris** (![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white))
+- 🎓 Software Developer student at **42 Paris** ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 - 🎌 BA in Japanese Studies
 - 💬 Fluent in **French, English & Japanese** 🇫🇷🇬🇧🇯🇵
 - 🌱 Currently mastering C/C++, web development & system programming
