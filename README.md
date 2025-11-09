@@ -23,8 +23,10 @@
 
 ## 📫 Contact
 - 📧 Email: haneviviane@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn : in-progress
+- Fiverr : in-progress
 
 ## 🎯 42 Projects
 Check out my 42 school projects below! ⬇️
 
-Hope too talk to you soon.
+Hope to talk to you soon.
